@@ -1,0 +1,10 @@
+C:\Users\jtroo\source\repos\Scholarship MS\Scholarship MS\bin\Debug\Scholarship MS.exe.config
+C:\Users\jtroo\source\repos\Scholarship MS\Scholarship MS\bin\Debug\Scholarship MS.exe
+C:\Users\jtroo\source\repos\Scholarship MS\Scholarship MS\bin\Debug\Scholarship MS.pdb
+C:\Users\jtroo\source\repos\Scholarship MS\Scholarship MS\obj\Debug\Scholarship MS.csproj.AssemblyReference.cache
+C:\Users\jtroo\source\repos\Scholarship MS\Scholarship MS\obj\Debug\Scholarship_MS.AddScholar.resources
+C:\Users\jtroo\source\repos\Scholarship MS\Scholarship MS\obj\Debug\Scholarship_MS.Properties.Resources.resources
+C:\Users\jtroo\source\repos\Scholarship MS\Scholarship MS\obj\Debug\Scholarship MS.csproj.GenerateResource.cache
+C:\Users\jtroo\source\repos\Scholarship MS\Scholarship MS\obj\Debug\Scholarship MS.csproj.CoreCompileInputs.cache
+C:\Users\jtroo\source\repos\Scholarship MS\Scholarship MS\obj\Debug\Scholarship MS.exe
+C:\Users\jtroo\source\repos\Scholarship MS\Scholarship MS\obj\Debug\Scholarship MS.pdb
